@@ -1,0 +1,119 @@
+Fold : 1
+[LightGBM] [Info] Total Bins 7227
+[LightGBM] [Info] Number of data points in the train set: 240000, number of used features: 24
+[LightGBM] [Info] Start training from score 7.456513
+Training until validation scores don't improve for 500 rounds
+[1000]	training's rmse: 0.851624	valid_1's rmse: 0.854814
+[2000]	training's rmse: 0.843793	valid_1's rmse: 0.848713
+[3000]	training's rmse: 0.840066	valid_1's rmse: 0.846458
+[4000]	training's rmse: 0.837687	valid_1's rmse: 0.845469
+[5000]	training's rmse: 0.835765	valid_1's rmse: 0.844943
+[6000]	training's rmse: 0.834121	valid_1's rmse: 0.844651
+[7000]	training's rmse: 0.832554	valid_1's rmse: 0.844435
+[8000]	training's rmse: 0.831056	valid_1's rmse: 0.844319
+[9000]	training's rmse: 0.829636	valid_1's rmse: 0.844214
+[10000]	training's rmse: 0.828262	valid_1's rmse: 0.844143
+[11000]	training's rmse: 0.826926	valid_1's rmse: 0.844058
+[12000]	training's rmse: 0.825596	valid_1's rmse: 0.844011
+[13000]	training's rmse: 0.824301	valid_1's rmse: 0.843981
+[14000]	training's rmse: 0.823016	valid_1's rmse: 0.843953
+[15000]	training's rmse: 0.821752	valid_1's rmse: 0.84391
+[16000]	training's rmse: 0.820491	valid_1's rmse: 0.843905
+Early stopping, best iteration is:
+[16243]	training's rmse: 0.820193	valid_1's rmse: 0.843893
+Performance of the　LGBM prediction MSE: 0.84389
+Total time spent on fold: 1 min 50.9732 sec
+####################################################################################################
+Fold : 2
+[LightGBM] [Info] Total Bins 7227
+[LightGBM] [Info] Number of data points in the train set: 240000, number of used features: 24
+[LightGBM] [Info] Start training from score 7.456153
+Training until validation scores don't improve for 500 rounds
+[1000]	training's rmse: 0.85162	valid_1's rmse: 0.85532
+[2000]	training's rmse: 0.84383	valid_1's rmse: 0.848845
+[3000]	training's rmse: 0.840074	valid_1's rmse: 0.846409
+[4000]	training's rmse: 0.837673	valid_1's rmse: 0.845357
+[5000]	training's rmse: 0.835826	valid_1's rmse: 0.844859
+[6000]	training's rmse: 0.834204	valid_1's rmse: 0.844566
+[7000]	training's rmse: 0.832642	valid_1's rmse: 0.844376
+[8000]	training's rmse: 0.831177	valid_1's rmse: 0.844234
+[9000]	training's rmse: 0.82975	valid_1's rmse: 0.844074
+[10000]	training's rmse: 0.828356	valid_1's rmse: 0.843986
+[11000]	training's rmse: 0.827006	valid_1's rmse: 0.843905
+[12000]	training's rmse: 0.825693	valid_1's rmse: 0.843862
+[13000]	training's rmse: 0.824419	valid_1's rmse: 0.843827
+[14000]	training's rmse: 0.823162	valid_1's rmse: 0.843806
+Early stopping, best iteration is:
+[13725]	training's rmse: 0.823514	valid_1's rmse: 0.843795
+Performance of the　LGBM prediction MSE: 0.8438
+Total time spent on fold: 1 min 41.8831 sec
+####################################################################################################
+Fold : 3
+[LightGBM] [Info] Total Bins 7228
+[LightGBM] [Info] Number of data points in the train set: 240000, number of used features: 24
+[LightGBM] [Info] Start training from score 7.456014
+Training until validation scores don't improve for 500 rounds
+[1000]	training's rmse: 0.852151	valid_1's rmse: 0.852994
+[2000]	training's rmse: 0.844329	valid_1's rmse: 0.846539
+[3000]	training's rmse: 0.840552	valid_1's rmse: 0.844256
+[4000]	training's rmse: 0.838098	valid_1's rmse: 0.843304
+[5000]	training's rmse: 0.836235	valid_1's rmse: 0.842856
+[6000]	training's rmse: 0.834534	valid_1's rmse: 0.842584
+[7000]	training's rmse: 0.832991	valid_1's rmse: 0.84239
+[8000]	training's rmse: 0.831477	valid_1's rmse: 0.842233
+[9000]	training's rmse: 0.830041	valid_1's rmse: 0.842164
+[10000]	training's rmse: 0.828643	valid_1's rmse: 0.842073
+Early stopping, best iteration is:
+[10002]	training's rmse: 0.82864	valid_1's rmse: 0.842072
+Performance of the　LGBM prediction MSE: 0.84207
+Total time spent on fold: 1 min 3.1514 sec
+####################################################################################################
+Fold : 4
+[LightGBM] [Info] Total Bins 7228
+[LightGBM] [Info] Number of data points in the train set: 240000, number of used features: 24
+[LightGBM] [Info] Start training from score 7.457012
+Training until validation scores don't improve for 500 rounds
+[1000]	training's rmse: 0.852056	valid_1's rmse: 0.853187
+[2000]	training's rmse: 0.844302	valid_1's rmse: 0.84695
+[3000]	training's rmse: 0.840565	valid_1's rmse: 0.844531
+[4000]	training's rmse: 0.838234	valid_1's rmse: 0.843563
+[5000]	training's rmse: 0.836371	valid_1's rmse: 0.843085
+[6000]	training's rmse: 0.834683	valid_1's rmse: 0.842737
+[7000]	training's rmse: 0.833114	valid_1's rmse: 0.842489
+[8000]	training's rmse: 0.831639	valid_1's rmse: 0.842337
+[9000]	training's rmse: 0.830204	valid_1's rmse: 0.84223
+[10000]	training's rmse: 0.828849	valid_1's rmse: 0.842118
+[11000]	training's rmse: 0.827488	valid_1's rmse: 0.842075
+[12000]	training's rmse: 0.8262	valid_1's rmse: 0.842061
+[13000]	training's rmse: 0.824911	valid_1's rmse: 0.841999
+[14000]	training's rmse: 0.823633	valid_1's rmse: 0.84198
+[15000]	training's rmse: 0.82236	valid_1's rmse: 0.841946
+[16000]	training's rmse: 0.821109	valid_1's rmse: 0.841915
+[17000]	training's rmse: 0.819895	valid_1's rmse: 0.841912
+Early stopping, best iteration is:
+[16759]	training's rmse: 0.820186	valid_1's rmse: 0.841901
+Performance of the　LGBM prediction MSE: 0.8419
+Total time spent on fold: 1 min 43.0297 sec
+####################################################################################################
+Fold : 5
+[LightGBM] [Info] Total Bins 7228
+[LightGBM] [Info] Number of data points in the train set: 240000, number of used features: 24
+[LightGBM] [Info] Start training from score 7.455610
+Training until validation scores don't improve for 500 rounds
+[1000]	training's rmse: 0.852379	valid_1's rmse: 0.852118
+[2000]	training's rmse: 0.844608	valid_1's rmse: 0.845847
+[3000]	training's rmse: 0.84087	valid_1's rmse: 0.843517
+[4000]	training's rmse: 0.838485	valid_1's rmse: 0.842497
+[5000]	training's rmse: 0.836575	valid_1's rmse: 0.841944
+[6000]	training's rmse: 0.83488	valid_1's rmse: 0.841571
+[7000]	training's rmse: 0.833323	valid_1's rmse: 0.841369
+[8000]	training's rmse: 0.831828	valid_1's rmse: 0.84118
+[9000]	training's rmse: 0.830435	valid_1's rmse: 0.841077
+[10000]	training's rmse: 0.829061	valid_1's rmse: 0.841012
+[11000]	training's rmse: 0.827696	valid_1's rmse: 0.840952
+[12000]	training's rmse: 0.826361	valid_1's rmse: 0.840904
+Early stopping, best iteration is:
+[11650]	training's rmse: 0.826821	valid_1's rmse: 0.840891
+Performance of the　LGBM prediction MSE: 0.84089
+Total time spent on fold: 1 min 15.7429 sec
+####################################################################################################
